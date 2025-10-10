@@ -1,0 +1,44 @@
+{
+  "Vida diaria y viajes": [
+    "hábitos de pago", "hábitos de viaje", "hábitos de baño", "hábitos de crianza de mascotas",
+    "patrón de uso de redes sociales", "costumbres matrimoniales"
+  ],
+  "Dieta y concepto de salud": [
+    "hábitos alimenticios", "actitud hacia el nacimiento, envejecimiento, enfermedad y muerte",
+    "medicina tradicional y moderna"
+  ],
+  "Educación y conocimiento": [
+    "prácticas educativas", "concepto de profesor y estudiante",
+    "elección de carrera universitaria", "opciones profesionales"
+  ],
+  "Arte y entretenimiento": [
+    "actividades festivas de entretenimiento en diferentes lugares con el mismo origen",
+    "música y danza tradicionales", "arte contemporáneo"
+  ],
+  "Etiqueta y cortesía": [
+    "etiqueta básica",
+    "convención de nombres", "origen del nombre", "significado del nombre",
+    "puntualidad al visitar", "etiqueta con los zapatos durante una visita",
+    "costumbres de hospitalidad al recibir invitados", "llevar regalos al anfitrión",
+    "etiqueta de asientos para invitados y anfitriones", "etiqueta al servir durante una visita",
+    "dejar comida después de comer", "usar sal al comer",
+    "dar cumplidos durante una comida", "comer con la mano derecha", "alcohol", "cerdo",
+    "entregar regalos", "regalos para niños", "abrir regalos",
+    "principios generales de saludo", "saludo entre hombres", "saludo entre mujeres", "saludo de hombres a mujeres",
+    "programar citas antes de una reunión de negocios", "código de vestimenta antes de una reunión de negocios",
+    "intercambio de tarjetas de presentación antes de una reunión de negocios",
+    "construcción de redes antes de una reunión de negocios", "edad y experiencia antes de una reunión de negocios",
+    "familiaridad antes de una reunión de negocios",
+    "socialización durante la reunión de negocios", "duración de la reunión de negocios",
+    "política de puertas abiertas durante la reunión de negocios", "interrupciones durante la reunión de negocios",
+    "respeto a los superiores durante la reunión de negocios", "estilo de negociación durante la reunión de negocios",
+    "toma de decisiones durante la reunión de negocios", "trueque durante la reunión de negocios",
+    "reuniones privadas durante la reunión de negocios", "evitación del conflicto durante la reunión de negocios",
+    "seguimiento después de la reunión de negocios", "negociaciones en curso después de la reunión de negocios",
+    "estilo de comunicación", "comunicación indirecta", "humor", "contacto físico", "espacio personal", "gestos",
+    "hacer señas", "contacto visual"
+  ],
+  "Expresiones fijas en el idioma": [
+    "modismo", "dicho común", "proverbio", "neologismo y abreviatura"
+  ]
+}

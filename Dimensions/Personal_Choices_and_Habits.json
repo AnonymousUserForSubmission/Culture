@@ -1,0 +1,19 @@
+{
+	"Daily life and travel": ["payment habits", "travel habits", "bathing habits", "pet-raising habits", "social media usage pattern", "marriage customs"],
+	"Diet and Health Concept": ["eating habits", "attitude towards birth, aging, illness and death", "traditional and modern medicine"],
+	"Education and Knowledge": ["educational practices", "teacher student concept", "major selection", "career choices"],
+	"Art and Entertainment": ["festive entertainment activities in different places with the same origin", "traditional music and dance", "contemporary art"],
+	"Etiquette and Courtesy": [
+		"basic etiquette", 
+		"naming convention", "name origin", "name significance", "punctuality when visiting", "shoe etiquette during a visit", "hospitality customs when receiving guests", "bringing gifts for the host","seating etiquette for guests and hosts", "serving etiquette during a visit", 
+		"leaving food after eating", "using salt while eating",
+		"giving compliments during a meal", "eating with the right hand", "alcohol", "pork",
+		"handing gifts", "gifts for children", "opening gifts",
+		"general greeting principles", "greeting between men and men", "greeting between women and women", "greeting between men to women",
+		"appointment scheduling before the business meeting", "dress code before the business meeting", "business card exchange before the business meeting", "network building before the business meeting", "age and experience before the business meeting", "familiarity before the business meeting",
+		"socialization during the business meeting", "meeting duration during the business meeting", "open door policy during the business meeting", "interruptions during the business meeting", "deference to senior during the business meeting", "negotiation style during the business meeting", "decision making during the business meeting", "bartering during the business meeting", "private meetings during the business meeting", "confrontation avoidance during the business meeting",
+		"follow up after the business meeting", "ongoing negotiations after the business meeting",
+		"communication style", "indirect communication", "humour","physical contact", "personal space", "gestures", "beckoning", "eye contact"],
+	"Fixed Expressions in Language": ["idiom", "common saying", "proverb", "neologism and abbreviation"
+	]
+}

@@ -1,6 +1,0 @@
-{
-  "Transportation Rules": ["Vehicle Movement Rules", "Traffic Signs and Signals", "Pedestrian and Non-Motorized Vehicle Rules", "Motor Vehicle Driving Rules", "Parking Regulations"],
-  "Date Format": ["Date Order", "Separator Type", "Year Format", "Month Representation", "Zero-padding", "Natural Language Date", "Calendar System"],
-  "Measurement Unit": ["Measurement System", "Localization"],
-  "Financial Market Rules": ["Regulatory Structure", "Market Type", "Entity Type", "Access & Licensing", "Conduct & Compliance", "Capital & Risk", "Monetary & Payment System", "FinTech Regulation", "Tax & Accounting", "International Alignment", "Stability & Resolution"]
-}
